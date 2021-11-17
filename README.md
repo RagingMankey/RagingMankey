@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RagingMankey
-- 👀 I’m interested in Gaming, Faking my way through scripting, chewing ass, kicking bubble gum and I'm all out of ass!!!
+- 👀 I’m interested in ... Gaming, Faking my way through scripting, chewing ass, kicking bubble gum and I'm all out of ass!!! Actually think UX desing is cool and takes top notch over functionality. 
 - 🌱 I’m currently learning ... Jamf, Python, Powershell, Linux, to love.
-- 💞️ I’m looking to collaborate on No I hate people, don't talk to me..... Okay I'm friendly but I like to work solo.... Okay who am I kidding, love getting help with I ask,
-but also will differ to others on well constructed advice and feedback
+- 💞️ I’m looking to collaborate on ... No I hate people, don't talk to me..... Okay I'm friendly but I like to work solo.... Okay who am I kidding, love getting help when I ask for it, but also will differ to others when given well constructed feedback
 - 📫 How to reach me ... you cant!!! But if you really want to I dunno leave a comment, like and subscribe. 
 
 <!---
